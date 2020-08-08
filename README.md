@@ -2,7 +2,7 @@
 Python ve YOLO, OpenCV kullanarak resimdeki objeleri tanıma
 
 ## Medium Linki
-[Medium](https://www.google.com)
+[Medium](https://medium.com/@alperenbayramoglu2/100-sat%C4%B1r-kod-ile-derin-%C3%B6%C4%9Frenme-ed8d95228e59)
 
 ## Gereklilikler
 * Python3
