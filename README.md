@@ -20,4 +20,4 @@ Aynı zamanda önceden öğretilmiş olan COCO veri setini indirmeniz gerekiyor:
 ## Çalıştırma
 python3 yolo.py
 
-[!Tanımlanan nesneler](https://github.com/Spelchure/yolo-obje-tanima/blob/master/object-dedected.jpg)
+![Tanımlanan nesneler](https://raw.githubusercontent.com/Spelchure/yolo-obje-tanima/master/object-dedected.jpg)
